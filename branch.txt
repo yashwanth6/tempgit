@@ -1,0 +1,23 @@
+C:\Users\yashu\MyRepo>git checkout -b index-html
+Switched to a new branch 'index-html'
+
+C:\Users\yashu\MyRepo>git add .
+
+C:\Users\yashu\MyRepo>git commit -m "added index html"
+[index-html 7850e93] added index html
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+ create mode 100644 htmlpage.txt
+
+C:\Users\yashu\MyRepo>git push origin index-html
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 350 bytes | 35.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'index-html' on GitHub by visiting:
+remote:      https://github.com/yashwanth6/tempgit/pull/new/index-html
+remote:
+To https://github.com/yashwanth6/tempgit.git
+ * [new branch]      index-html -> index-html

@@ -19,4 +19,10 @@ public void init() {
 public void testSum() {
 	assertEquals(10,arth.sum(4, 6));
 }
+
+//@Test
+//public void testsub() {
+//	assertEquals(12,arth.sub(2, 1));
+//}
+
 }
